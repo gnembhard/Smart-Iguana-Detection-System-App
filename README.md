@@ -272,6 +272,6 @@ firebase/
 
 ---
 
-# 📄 License
+# License
 
 This project was developed for educational and research purposes as part of the Florida Atlantic University Senior Design Program.
