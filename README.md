@@ -1,8 +1,5 @@
 #  Smart Iguana Detection System App
 
-<p align="center">
-  <img src="assets/logo.png" alt="Smart Iguana Detection System Logo" width="200"/>
-</p>
 
 <h3 align="center">
 Detect, Deter, and DESTROY Iguanas
