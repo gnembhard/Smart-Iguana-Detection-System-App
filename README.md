@@ -265,7 +265,9 @@ firebase/
 # Academic Information
 
 **Project:** Detect, Deter, and DESTROY Iguanas
+
 **Course:** Engineering Design 1 & 2
+
 **Institution:** Florida Atlantic University  
 
 ---
