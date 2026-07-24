@@ -210,7 +210,7 @@ npm install
 
 ---
 
-# ▶️ Running the Application
+#  Running the Application
 
 Start the Expo development server:
 
@@ -226,7 +226,7 @@ Run on:
 
 ---
 
-# 🔥 Firebase Configuration
+# Firebase Configuration
 
 The application uses Firebase Firestore for storing detection information.
 
@@ -248,7 +248,7 @@ firebase/
 
 ---
 
-# 📈 System Performance
+# System Performance
 
 ## AI Detection Performance
 
@@ -261,19 +261,6 @@ firebase/
 | YOLO Inference Time | 80-140 ms |
 | Total Response Time | 0.65-0.95 seconds |
 
----
-
-# Team Members
-
-**Florida Atlantic University Senior Design Project**
-
-- Giovanni Nembhard
-- Jonathan
-- Juan
-- Killian
-- Rigal
-
----
 
 # Academic Information
 
